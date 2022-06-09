@@ -1,8 +1,9 @@
 
-@Font-face {
-  font-family: Lato, verdana, sanserif;
-  src: url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
-}
+@font-face {
+    font-family: F16;
+    src: url("../../SubSkipper/F16_Panel Font.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
   
 
 .main { 
