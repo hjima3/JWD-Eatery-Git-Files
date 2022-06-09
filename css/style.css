@@ -3,6 +3,8 @@
   font-family: Lato, verdana, sans-serif;
 }
 
+/* body { */
+/*   background-image: url("/images/jwd-eatery-front.png");
+} */
 body {
-  background-image: url("/images/jwd-eatery-front.png");
-}
+  background-color: yellow; }
