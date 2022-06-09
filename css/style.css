@@ -4,7 +4,7 @@
   color: white;
 }
 
- body { 
+.main { 
    background-image: url("../images/jwd-eatery-front.png");
    background-color: #BCB88A;
    font-weight: bold;
