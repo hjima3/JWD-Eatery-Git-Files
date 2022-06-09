@@ -15,3 +15,7 @@
    padding-left: 100px;
    line-height: 20px;
 }
+.links {
+   justify-content: space-between;
+   
+}
