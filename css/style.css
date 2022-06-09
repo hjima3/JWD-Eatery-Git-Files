@@ -1,9 +1,13 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
-
-.main {
+@Font-face {
   font-family: Lato, verdana, sanserif;
+  src: url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
+}
+  
+
+/* .main { */
+/*   font-family: Lato, verdana, sanserif;
 }
 .main p {
   font-family: Lato, verdana, sanserif;
-}
+} */
