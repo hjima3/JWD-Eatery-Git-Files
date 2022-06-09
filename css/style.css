@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
 * { 
   font-family: Lato, verdana, sans-serif;
-  color: blue;
+  color: white;
 }
 
- .main { 
-   background-image: url("images/jwd-eatery-front.png");
+ body { 
+   background-image: url("../images/jwd-eatery-front.png");
    background-color: #BCB88A;
    font-weight: bold;
 } 
@@ -17,7 +17,7 @@
 }
 .links {
    justify-content: space-between;
-   background-color: green;
+   background-color:;
    height: 50px;
    
 }
