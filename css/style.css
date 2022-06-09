@@ -9,3 +9,9 @@
    background-color: sage;
    font-weight: bold;
 } 
+
+.intro {
+   font-weight: bold;
+   text-align: center;
+   line-height: 10px;
+}
