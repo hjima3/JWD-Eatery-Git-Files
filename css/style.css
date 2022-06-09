@@ -10,6 +10,12 @@
    font-weight: bold;
 } 
 
+.image {
+margin-left: auto;
+margin-right: auto;
+padding-left: 350px;
+}
+
 .intro {
    font-weight: bold;
    padding-left: 100px;
