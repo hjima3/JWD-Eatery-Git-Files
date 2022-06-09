@@ -12,6 +12,6 @@
 
 .intro {
    font-weight: bold;
-   text-align: center;
-   line-height: 10px;
+   padding-left: 100px;
+   line-height: 20px;
 }
