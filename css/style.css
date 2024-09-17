@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+* { 
+  font-family: Lato, verdana, sans-serif;
+  color: white;
+}
+
+.main { 
+   background-image: url("../images/jwd-eatery-front.png");
+   background-color: #BCB88A;
+   font-weight: bold;
+} 
+
+.image {
+margin-left: auto;
+margin-right: auto;
+padding-left: 350px;
+}
+
+.intro {
+   font-weight: bold;
+   padding-left: 100px;
+   line-height: 20px;
+}
+.links {
+   justify-content: space-between;
+   height: 50px;
+   
+}
+.apps {
+  background-color: #BCB88A;
+}
+
+.entrees {
+  background-color: #BCB88A;
+}
+
+.drinks {
+  background-color: #BCB88A; 
+}
+
+.desserts {
+  background-color: #BCB88A; 
+}
